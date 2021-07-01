@@ -1,0 +1,29 @@
+
+.bg-container{
+    background-color: white;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png");
+    height: 100vh;
+    background-size: cover;
+   }
+
+.card{
+    text-align: center;
+    color: white;
+    font-size: medium;
+    font-style: normal;
+    font-weight: 200;
+    width: 350px;
+}
+.card1{
+    color: white;
+    text-align: left;
+    width: 350px;
+}
+.button{
+    background-color: orange;
+    color: white;
+    font-family: Roboto;
+    border-radius: 50px;
+    border-width: 0px;
+
+}
